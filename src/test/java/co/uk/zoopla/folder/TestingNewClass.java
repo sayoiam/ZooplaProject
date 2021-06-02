@@ -1,6 +1,5 @@
 package co.uk.zoopla.folder;
 
 public class TestingNewClass {
-
-    // Testing a new java class
+    // This is to test how to create a new java class
 }
